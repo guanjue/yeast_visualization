@@ -1,0 +1,1 @@
+/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/gene_group/gff3_file/genename/all.genename.txt

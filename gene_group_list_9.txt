@@ -1,0 +1,9 @@
+/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/gene_group/gff3_file/genename/RP.genename.txt
+/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/gene_group/gff3_file/genename/SAGA.genename.txt
+/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/gene_group/gff3_file/genename/TFIID.genename.txt
+/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/gene_group/gff3_file/genename/CUTs.genename.txt
+/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/gene_group/gff3_file/genename/SUTs.genename.txt
+/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/gene_group/gff3_file/genename/XUTs.genename.txt
+/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/gene_group/gff3_file/genename/tRNA_gene_modified.genename.txt
+/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/gene_group/gff3_file/genename/Y_prime_element.genename.txt
+/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/gene_group/gff3_file/genename/X_element.genename.txt
