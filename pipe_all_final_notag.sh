@@ -1,5 +1,6 @@
 #!/bin/bash
-script_bin='/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/'
+#script_bin='/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/'
+script_bin='/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline_final/yeast_visualization'
 rm -r /Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline_final/box_ref_notag/
 mkdir /Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline_final/box_ref_notag/
 while read info; do
